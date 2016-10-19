@@ -35,7 +35,7 @@ public class BouncingBall extends JFrame {
 		canvas.setPreferredSize(new Dimension(WIDTH, HEIGHT));
 		this.setContentPane(canvas);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		this.setTitle("Bouncing Ball");
+		this.setTitle("Hieu Hao Trinh");
 		this.pack();
 		this.setLocationRelativeTo(null);
 		this.setVisible(true);
